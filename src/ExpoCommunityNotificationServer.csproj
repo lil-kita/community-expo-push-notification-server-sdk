@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net8.0;net6.0;netstandard2.0</TargetFrameworks>
+    <TargetFrameworks>net9.0;net8.0;net6.0;netstandard2.0</TargetFrameworks>
     <RootNamespace>ExpoCommunityNotificationServer</RootNamespace>
     <Authors>Mikita Slaunikau</Authors>
     <Company></Company>
@@ -14,8 +14,8 @@
 	<GenerateDocumentationFile>true</GenerateDocumentationFile>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <AssemblyName>Community.Expo.Server.SDK</AssemblyName>
-    <PackageReleaseNotes>update nuget packages</PackageReleaseNotes>
-    <Version>1.2.2.0</Version>
+    <PackageReleaseNotes>add new fields to push ticket request</PackageReleaseNotes>
+    <Version>1.2.3.0</Version>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
